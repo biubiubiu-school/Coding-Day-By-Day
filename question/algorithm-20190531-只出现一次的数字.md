@@ -23,4 +23,4 @@
 
 ##### 链接答题代码及思路：
 
-- minminaya：
+- minminaya：[ExactMethod](https://github.com/biubiubiu-school/Coding-Day-By-Day/tree/master/src/main/kotlin/minminaya/solution20190531/ExactMethod.kt)
