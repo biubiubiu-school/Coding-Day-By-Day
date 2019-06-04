@@ -22,4 +22,4 @@ nums2 = [2,5,6],       n = 3
 ```
 
 ##### 链接答题代码及思路：
-* minminaya: [SearchMatrix](https://github.com/biubiubiu-school/Coding-Day-By-Day/tree/master/src/main/kotlin/minminaya/solution/MergeTailSort.kt)
+* minminaya: [MergeTailSort](https://github.com/biubiubiu-school/Coding-Day-By-Day/tree/master/src/main/kotlin/minminaya/solution/MergeTailSort.kt)
